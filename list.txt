@@ -9,4 +9,4 @@
 ||ad.doubleclick.net^
 ||googleads.g.doubleclick.net^
 ||download.isready2.online^
-||criteo.com
+||criteo.com^
