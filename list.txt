@@ -7,3 +7,4 @@
 ! Compiled by @Tomahawk014
 !
 ||ad.doubleclick.net^
+||googleads.g.doubleclick.net^
