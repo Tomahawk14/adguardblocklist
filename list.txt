@@ -1,0 +1,9 @@
+!
+! Title: AdGuard DNS filter
+! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
+! Version: 1.0.0
+! Last modified: 2025-04-27T18:08:13.471Z
+!
+! Compiled by @Tomahawk014
+!
+||ad.doubleclick.net^
