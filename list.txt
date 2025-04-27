@@ -10,3 +10,6 @@
 ||googleads.g.doubleclick.net^
 ||download.isready2.online^
 ||criteo.com^
+||fubo.tv^
+||doubleclick.net^
+||tisfas.co.in"
